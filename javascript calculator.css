@@ -1,0 +1,22 @@
+.pannelBody{
+  padding: 15px;
+  background-color: blue;
+  border-radius: 15px;
+  width: 320px !important;
+}
+.rowPad{
+  padding: 10px;
+}
+.inputCss{
+  font-size: 12px !important;
+  text-align: right !important;
+}
+.resultCss{
+  font-size: 15px !important;
+  text-align: right !important;
+  font-weight: bold !important;
+  color: blue;
+}
+.heading{
+  color: azure;
+}

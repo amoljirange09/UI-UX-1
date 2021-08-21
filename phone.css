@@ -1,0 +1,43 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+}
+
+/* Home section */
+#home{
+    height: 370px;
+    padding: 3px 68px;
+}
+#home::before{
+    height: 400px;
+}
+#home p{
+    font-size: 13px;
+}
+
+/* services section */
+#services{
+    flex-direction: column;
+}
+
+#services box{
+
+}
+
+/* clients section */
+#clients{
+    overflow: hidden;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+
+
+
+
+BECIL.COM
